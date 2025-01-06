@@ -36,10 +36,10 @@ Installation and Setup:
 
 Future Improvements:
 
-    -Add more quote categories (motivational, humorous, etc.).
-    -Include functionality for users to share quotes on additional social media platforms.
-    -Add animations or transitions for a more interactive experience.
-    -Fetch quotes from multiple APIs or sources to increase variety.
+    -Adding more quote categories (motivational, humorous, etc.).
+    -Including a functionality for users to share quotes on additional social media platforms.
+    -Adding animations or transitions for a more interactive experience.
+    -Fetching quotes from multiple APIs or sources to increase variety.
 
 License:
 This project is open-source and available under the MIT License.
