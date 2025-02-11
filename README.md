@@ -8,7 +8,7 @@ Features:
     -It allows users to get a new quote by clicking a button.
     -A Twitter Integration: Users can share the current quote directly to Twitter with a "Tweet" button.
     -A responsive and modern design, ensuring it works well on both desktop and mobile devices.
-    -Easy to understand code structure, making it a beginner-friendly project.
+    -An easy to understand code structure, making it a beginner-friendly project.
 
 How It Works:
 
