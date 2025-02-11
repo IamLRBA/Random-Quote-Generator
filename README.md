@@ -6,7 +6,7 @@ Features:
 
     -It displays several random quotes plus its author from a predefined list or fetched from an external API.
     -It allows users to get a new quote by clicking a button.
-    -Twitter Integration: Users can share the current quote directly to Twitter with a "Tweet" button.
+    -A Twitter Integration: Users can share the current quote directly to Twitter with a "Tweet" button.
     -Responsive and modern design, ensuring it works well on both desktop and mobile devices.
     -Easy to understand code structure, making it a beginner-friendly project.
 
